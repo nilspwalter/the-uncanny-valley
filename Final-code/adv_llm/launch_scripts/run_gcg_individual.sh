@@ -1,9 +1,6 @@
 #!/bin/bash
 
-#!/bin/bash
-. /opt/conda/bin/activate /opt/conda/envs/flows
-sh /opt/conda/bin/activate /opt/conda/envs/flows
-conda activate flows
+
 pip install transformers==4.28.1 ml_collections fschat==0.2.20
 export WANDB_MODE=disabled
 
