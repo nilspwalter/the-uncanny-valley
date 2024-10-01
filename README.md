@@ -6,3 +6,5 @@ code for DenseNet121 stems from the official PyTorch library. To attack and eval
 we use the official implementation of the attack [Zou et al., 2023]. CIFAR-10 and CIFAR-100 were
 also downloaded from PyTorch. The LLMs stem from HuggingFace.
 
+We provide in the folder `demo` a jupyter notebook, that gives an easy start to run the experiments with your own models.
+
