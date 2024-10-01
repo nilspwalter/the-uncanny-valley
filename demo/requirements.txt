@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+tqdm
+scipy
+tensorboard
+notebook
+jupyter
+matplotlib
+pyyaml
+easydict
